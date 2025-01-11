@@ -64,8 +64,7 @@ public class Game {
             calculateBestOfTen(winner);
             
             // Print current score after each round
-            System.out.println("Score - " + player1.getName() + ": " + player1Wins + 
-                             ", " + player2.getName() + ": " + player2Wins + "\n");
+            System.out.println("Score - " + player1.getName() + ": " + player1Wins + ", " + player2.getName() + ": " + player2Wins + "\n");
         }
         printsGameWinner();
     }
