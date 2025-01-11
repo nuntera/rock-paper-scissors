@@ -11,4 +11,4 @@ Scissors beats paper
 Paper beats rock
 The game should display the choices made by both the player and the computer, as well as the result of the game (win, loss, or draw).
 
-Bonus: You can make a for loop for more than 1 game and/or randomly select the first player to start the game
+Bonus: You can make a for loop for more than 1 game and/or randomly select the first player to start the game.
