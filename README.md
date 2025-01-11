@@ -2,8 +2,8 @@ A Mindera mindswap bootcamp exercise.
 
 Rock Paper Scissors.
 
-The game should name players as Player 1 and Player 2
-The game should randomly select a choice for the player 1 
+The game should name players as Player 1 and Player 2.
+The game should randomly select a choice for the player 1. 
 The game should then randomly select a choice for the player 2.
 The game should then compare the two choices and determine a winner based on the following rules:
 Rock beats scissors
